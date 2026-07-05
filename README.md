@@ -4,7 +4,7 @@ A responsive Digital Clock built using *HTML, **CSS, and **JavaScript*. The appl
 
 ## 📸 Screenshot
 
-![Digital Clock](screenshot.png)
+![Digital Clock](Screenshot.png)
 
 ## ✨ Features
 
